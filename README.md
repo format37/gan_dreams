@@ -1,2 +1,2 @@
 # gan_dreams
-What if entity will use gan variations of memorized world for rl training..
+Experiments, where gan made variations of memorized world as environment for rl training
